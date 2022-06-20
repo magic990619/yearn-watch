@@ -38,7 +38,7 @@
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.12",
     "@types/react-dom": "^18.0.5",
-    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
     "@typescript-eslint/parser": "^5.28.0",
     "dotenv-webpack": "^7.1.0",
     "eslint": "^8.17.0",
